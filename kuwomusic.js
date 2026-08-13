@@ -651,7 +651,7 @@ module.exports = {
     author: '田小致',
     version: "2026.08.13",
     appVersion: ">0.4.0-alpha.0",
-    srcUrl: "https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/kw.js",
+    srcUrl: "https://raw.githubusercontent.com/Cloud-wd/musicplugin/main/kuwomusic.js",
     cacheControl: "no-store",
     description: "## 使用说明  \n#### 版本: 2026.08.13  \n支持导入单曲，获取评论  \n修复更新解析，代码优化  \n支持用户变量，更改接口  \n#### 音源重定向  \n支持的插件如下  \n酷我音乐, 小蜗音乐, 元力KW  \n",
     hints: {
